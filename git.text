@@ -1,0 +1,4 @@
+initilization  - git initilization
+use details git config--global user.name "nithin"
+use details git config--global user.email "ktnithin66@gmail.com"
+git config--list
